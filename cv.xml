@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cv.xsl"?>
+<curriculum>
+ 
+  <anagrafica>
+    <dati_identitificativi>
+	    <nome>Ilyas</nome>
+	    <cognome>Haddad</cognome>
+	    <sesso>Maschio</sesso>
+	    <linkedin>Ilyas Haddad</linkedin>
+	    <cittadinanza>Italiana</cittadinanza>
+	    <email>haddadilyas02@gmail.com</email>
+    </dati_identitificativi>
+  
+    <dati_nascita>
+      <luogo>Garbagnate Milanese</luogo>
+      <data>12/12/2002</data>
+    </dati_nascita>
+     
+    <dati_residenza>
+      <citta>Solaro</citta>
+      <provincia>Milano</provincia>
+    </dati_residenza>
+  </anagrafica>
+   
+  <titoli_di_studio>
+    <titolo_studio tipo="Diploma di Informatico" stato="conseguito" anno_fine="2020" presso="IIS MAJORANA CESANO MADERNO" luogo="MILANO"/>
+  </titoli_di_studio>
+   
+  <lingue>
+    <nome>Italiano</nome>
+    <livello>Madrelingua</livello>
+  </lingue>
+  
+  <lingue>
+    <nome>Francese</nome>
+    <livello>A1</livello>
+  </lingue>
+  
+  <lingue>
+    <nome>Inglese</nome>
+    <livello>B2</livello>
+  </lingue>
+  
+  <competenze>
+  <tipo>Informatiche</tipo>
+  <linguaggio>
+  <nome>Java</nome>
+  </linguaggio>
+  <linguaggio>
+  <nome>C</nome>
+  </linguaggio>
+  <linguaggio>
+  <nome>HTML</nome>
+  </linguaggio>
+  
+  
+  <OS>
+      <nome>Linux</nome>
+  </OS> 
+  <OS>
+	  <nome>Windows</nome>
+  </OS>
+  <IDE>
+	  <nome>Atom</nome>
+  </IDE>
+  <IDE>
+	  <nome>VS Code</nome>
+  </IDE>
+  <IDE>
+	  <nome>Eclipse</nome>
+  </IDE>
+  <IDE>
+	  <nome>Intellij IDEA</nome>
+  </IDE>
+  </competenze>
+  
+  <esperienze tipo="non_lavorative">
+    <esperienza stato="conclusa">
+      <anno_inizio></anno_inizio>
+      <anno_fine></anno_fine>
+      <descrizione></descrizione>
+    </esperienza>
+  </esperienze>
+  
+
+   
+  <esperienze tipo="lavorative">
+    <esperienza stato="conclusa">
+      <anno_inizio>2015</anno_inizio>
+      <ruolo tipo="Programmatore"/>
+      <contratto tipo="lavoratore a progetto"/>
+      <azienda nome="Il mondo dei chip"/>
+      <descrizione>Progettazione di un sistema di e-commerce per un negozio specializzato in elettronica</descrizione>   
+    </esperienza>
+ 
+    <esperienza stato="conclusa">
+      <anno_inizio>2015</anno_inizio>
+      <ruolo tipo="Programmatore e responsabile progetto"/>
+      <contratto tipo="lavoratore a tempo indeterminato"/>
+      <azienda nome="WorkShop"/>
+      <descrizione>Progettista di software cloud e assistenza sui prodotti sviluppati</descrizione>   
+    </esperienza>
+  </esperienze>
+   
+  <skills>
+    <skill titolo="Programmazione PHP" livello="medio"/>
+    <skill titolo="Programmazione C" livello="medio"/>
+    <skill titolo="Programmazione Java" livello="medio"/>
+    <skill titolo="Gestione Team" livello="base"/>
+    <skill titolo="Formazione Team" livello="medio"/>
+  </skills>
+   
+</curriculum>
